@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fece2f"
+    tools:context=".SelectActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="61dp"
+        android:layout_marginEnd="106dp"
+        android:layout_marginRight="106dp"
+        android:fontFamily="@font/aldrich"
+        android:text="Let us"
+        android:textSize="70sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="137dp"
+        android:layout_marginLeft="137dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="78dp"
+        android:layout_marginRight="78dp"
+        android:text="Free Your Burden"
+        android:textSize="22sp"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/tiredImg"
+        android:layout_width="159dp"
+        android:layout_height="210dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="247dp"
+        android:src="@drawable/tired" />
+
+    <ImageView
+        android:id="@+id/happyImg"
+        android:layout_width="159dp"
+        android:layout_height="210dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="253dp"
+        android:layout_marginEnd="7dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="173dp"
+        android:layout_marginRight="173dp"
+        android:layout_marginBottom="289dp"
+        android:text="OR"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/userbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tiredImg"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="281dp"
+        android:background="#EFEEEA"
+        android:onClick="userLogin"
+        android:text="Like Some Help?"
+        android:padding="4dp"/>
+
+    <Button
+        android:id="@+id/Helperbutton"
+        android:layout_width="115dp"
+        android:layout_height="44dp"
+        android:layout_below="@+id/happyImg"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="25dp"
+        android:background="#EFEEEA"
+        android:padding="4dp"
+        android:text="Like To Help?"
+        android:onClick="HelperLogin"/>
+
+
+</RelativeLayout>
+

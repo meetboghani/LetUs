@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_name_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_call_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logout_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pdf_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\pdf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_white.jpg.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\logo_white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_science.jpeg.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\science.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_ser_signup.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_ser_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_city_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\city_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_order_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_roundedbutton.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_detail.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wallet_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_after_login.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_after_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_call_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_detective.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\detective.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_pdf__list.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_pdf__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_city_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\city_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_option.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\option.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_name_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\name_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_email_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallet_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_person_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\person_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_order_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_order_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_antic.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\font\\antic.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_button_rounded.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_name_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_city_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\city_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_home_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_call_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_album.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable\\album.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_bangers.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\font\\bangers.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_server_.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_home_server_.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pdf_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\pdf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logout_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_logout_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_back_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_wallet_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\wallet_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_city_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\city_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_order_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\order_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_add.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\ic_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_email_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_name_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_main_header.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\main_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logout_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tired.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\tired.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_bungee.ttf.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\font\\bungee.ttf"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_menu_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_share_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\share_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_email_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pdf_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\pdf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wallet_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wallet_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\wallet_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pdf_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\pdf_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_pdf_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\pdf_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assignment.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\assignment.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_add_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\add_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_server_login.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_server_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xxhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\share_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_call_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\call_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_search_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_aldrich.ttf.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\font\\aldrich.ttf"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_videos.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\videos.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_order_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\order_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_req.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_req.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ppt.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_name_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\name_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logout_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-xhdpi\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_city_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-hdpi\\city_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_call_icon.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-anydpi\\call_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\drawable-mdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\CHANDRESH BOGHANI\\AndroidStudioProjects\\Let US\\ParseStarterProject\\src\\main\\res\\layout\\activity_sign_up.xml"
+    }
+]

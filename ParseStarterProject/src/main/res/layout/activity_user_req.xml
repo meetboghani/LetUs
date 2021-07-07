@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".userReqActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="131dp"
+        android:background="#fece2f">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/bungee"
+            android:text="Request Page"
+            android:textSize="40dp" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bg"
+        android:orientation="vertical"
+        android:backgroundTintMode="src_over">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#fece2f"
+                android:padding="3dp"
+                android:text="Type:"
+                android:textAlignment="center"
+                android:textColor="#090505"
+                android:textSize="14sp" />
+            <Spinner
+                android:id="@+id/spinner"
+                android:background="#CFCCCC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:padding="3dp"
+                android:dropDownWidth="wrap_content"
+                android:layout_marginLeft="5dp"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:id="@+id/topicName"
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#fece2f"
+                android:textColor="#090505"
+                android:padding="3dp"
+                android:text="Topic Name :"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/topicName_et"
+                android:layout_width="193dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:background="#CFCCCC"
+                android:padding="3dp" />
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:background="#fece2f"
+                android:padding="3dp"
+                android:textColor="#090505"
+                android:text="Desrciption :"
+                android:textAlignment="center"
+                android:textSize="14sp" />
+
+            <EditText
+
+                android:id="@+id/desc_Et"
+                android:layout_width="230dp"
+                android:layout_height="80dp"
+                android:layout_gravity="center"
+
+                android:layout_marginLeft="5dp"
+                android:background="#CFCCCC"
+                android:padding="3dp" />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp">
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="wrap_content"
+                android:background="#fece2f"
+                android:padding="3dp"
+                android:text="Material/Ref :"
+                android:textAlignment="center"
+                android:textColor="#090505"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/pdfButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:background="#ffff"
+                android:gravity="center"
+                android:text="Add PDF"
+                android:textSize="14sp"
+                android:onClick="openList"/>
+
+
+
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/postButton"
+            android:layout_gravity="center"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="POST"
+            android:background="#fece2f"
+            android:textSize="30dp"
+            android:onClick="postInfo"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

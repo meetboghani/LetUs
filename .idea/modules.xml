@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Let_US.iml" filepath="$PROJECT_DIR$/.idea/modules/Let_US.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ParseStarterProject/Let_US.ParseStarterProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ParseStarterProject/Let_US.ParseStarterProject.iml" />
+    </modules>
+  </component>
+</project>
